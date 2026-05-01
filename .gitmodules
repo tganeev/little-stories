@@ -1,0 +1,6 @@
+[submodule "ls-backend"]
+	path = ls-backend
+	url = https://github.com/tganeev/little-stories-backend.git
+[submodule "ls-frontend"]
+	path = ls-frontend
+	url = https://github.com/tganeev/little-stories-frontend.git
